@@ -1,72 +1,75 @@
-<h1 align="center">Hi 👋, I'm Muhammad Umair</h1>
-<h3 align="center">🚀 A Passionate Mobile App Developer from Pakistan 🇵🇰</h3>
+<!--
+**MuhammadUmairZafar/MuhammadUmairZafar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=450&height=28&lines=Hi👋+I'm+Muhammad+Umair..;Mobile+App+Developer;Android+%26+iOS+Specialist;Kotlin+%26+Swift+Developer;Creating+Amazing+Apps..;Nice+To+Meet+You+....&center=true">
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-umair-zafar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:muhammadumair.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td valign="top" width="60%">
+
+### 💫 About Me:
+As a dedicated Mobile App Developer, I develop elegant, user-focused applications with **Kotlin** and **Swift**.  
+I'm committed to delivering sophisticated, intuitive solutions and continuously enhancing my skills to create seamless user experiences.
+
+- 🔧 Android & iOS App Developer  
+- 🧠 Always learning and building  
+- 🎯 Focused on performance and UX  
+- 🚀 Let’s build something great!
+
+   </td>
+    <td align="center" width="50%">
+      <img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/5239dc62-bab4-4b30-ad69-3c7cce3ab926/adam_bidd_a_pixel_art_style_of_a__20_.png" width="400" alt="Programmer at work"/>
+    </td>
+  </tr>
+</table>
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/umair.rajput.31723) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/umair.rajput.5) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-umair-zafar) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadumair.address@gmail.com) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
+![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=muhammadumair64&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+# 🤝 Let’s collaborate!
+I’m always looking for opportunities to collaborate on innovative UI/UX designs, Kotlin, Jetpack Compose, and Kotlin Multiplatform projects.
+
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=muhammadumair64&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumair64&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=muhammadumair64&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🧑‍💻 About Me
-
-- 📱 I’m a dedicated **Android Developer** with a focus on building scalable, modern apps.
-- 🧠 I work with **Kotlin**, **Java**, and **Jetpack Compose** using **MVVM architecture**.
-- 📊 I integrate **Room, Firebase, Retrofit**, and use **interactive charts** for clean data visuals.
-- 🌟 Currently exploring **SwiftUI** and cross-platform tools.
-- 🛠️ Passionate about clean code, intuitive UX, and continuous improvement.
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadumair64&show_icons=true&locale=en" alt="muhammadumair64" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadumair64&" alt="muhammadumair64" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadumair64&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadumair64&theme=onedark" />
-</p>
-
----
-
-### 📫 Connect with Me
-
-- LinkedIn: [linkedin.com/in/muhammad-umair-zafar](https://www.linkedin.com/in/muhammad-umair-zafar)
-- Gmail: muhammadumair.dev@gmail.com
-
----
-
-> ✨ “Code is like humor. When you have to explain it, it’s bad.” — Cory House  
-> 🔥 Let’s build something amazing together!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
