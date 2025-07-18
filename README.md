@@ -21,7 +21,7 @@ I'm committed to delivering sophisticated, intuitive solutions and continuously 
 
    </td>
     <td align="center" width="50%">
-      <img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/5239dc62-bab4-4b30-ad69-3c7cce3ab926/adam_bidd_a_pixel_art_style_of_a__20_.png" width="400" alt="Programmer at work"/>
+      <img src="https://media.licdn.com/dms/image/v2/D5622AQHyUyexVs8MIA/feedshare-shrink_2048_1536/B56ZW5zueSGsAo-/0/1742579102408?e=1755734400&v=beta&t=FDiBtlm4vWQPQ4nT9fx-bPNz4SLvtzFVJzkSgKScuCA" width="300" height="300" alt="Programmer at work"/>
     </td>
   </tr>
 </table>
