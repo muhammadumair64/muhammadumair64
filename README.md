@@ -21,7 +21,7 @@ I'm committed to delivering sophisticated, intuitive solutions and continuously 
 
    </td>
     <td align="center" width="50%">
-      <img src="https://media.licdn.com/dms/image/v2/D5622AQHyUyexVs8MIA/feedshare-shrink_2048_1536/B56ZW5zueSGsAo-/0/1742579102408?e=1755734400&v=beta&t=FDiBtlm4vWQPQ4nT9fx-bPNz4SLvtzFVJzkSgKScuCA" width="300" height="300" alt="Programmer at work"/>
+      <img src="https://img.freepik.com/free-photo/cyber-security-expert-working-with-technology-neon-lights_23-2151645608.jpg?semt=ais_incoming&w=740&q=80" width="300" height="300" alt="Programmer at work"/>
     </td>
   </tr>
 </table>
@@ -52,9 +52,6 @@ I'm committed to delivering sophisticated, intuitive solutions and continuously 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=muhammadumair64&theme=radical&no-frame=false&no-bg=true&margin-w=4)
